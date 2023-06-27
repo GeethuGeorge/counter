@@ -1,1 +1,4 @@
-"Contact ME"
+const contact= "Contact ME"
+function noName() {
+  return "No name"
+}
